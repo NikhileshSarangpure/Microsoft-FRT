@@ -1,0 +1,4 @@
+pickle
+streamlit
+pandas
+numpy==1.18.4
